@@ -1,0 +1,17 @@
+title: Josip Stuhli
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal page for Josip Stuhli
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://stuhli.dev"
+
+# Build settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jstuhli" }
+    - { platform: twitter, user_url: "https://twitter.com/jstuhli" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jstuhli/" }
