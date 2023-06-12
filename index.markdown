@@ -9,7 +9,7 @@ layout: home
 ## Talks
 
 ### 2023
-> * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
+> * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users [[video]](https://www.youtube.com/watch?v=d22iKaVHfdg)
 > * `2023-05-10`: [Devoxx UK 2023](https://www.devoxx.co.uk/) Scaling: from 0 to 20 million users
 > * `2023-02-02`: [Bug Future Show Keynote](https://www.bug.hr/dogadjaji/ovo-je-kompletan-program-najspektakularnijeg-bug-future-showa-svih-vremena-31389)  Scaling infrastructure for millions of users without breaking the bank (CRO)
 
