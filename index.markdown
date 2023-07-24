@@ -9,9 +9,11 @@ layout: home
 ## Talks
 
 ### 2023
-> * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users [[video]](https://www.youtube.com/watch?v=d22iKaVHfdg)
-> * `2023-05-10`: [Devoxx UK 2023](https://www.devoxx.co.uk/) Scaling: from 0 to 20 million users
-> * `2023-02-02`: [Bug Future Show Keynote](https://www.bug.hr/dogadjaji/ovo-je-kompletan-program-najspektakularnijeg-bug-future-showa-svih-vremena-31389)  Scaling infrastructure for millions of users without breaking the bank (CRO)
+> * `2023-12-04`: [DevOpsCon Munich](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
+> * `2023-07-28`: [WeAreDevelopers Berlin](https://www.wearedevelopers.com/world-congress/program) Scaling: from 0 to 20 million users
+> * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
+> * `2023-05-10`: [Devoxx UK 2023](https://www.devoxx.co.uk/) Scaling: from 0 to 20 million users [[video]](https://www.youtube.com/watch?v=d22iKaVHfdg&ab_channel=DevoxxUK)
+> * `2023-02-02`: [Bug Future Show Keynote](https://www.bug.hr/dogadjaji/ovo-je-kompletan-program-najspektakularnijeg-bug-future-showa-svih-vremena-31389)  Scaling infrastructure for millions of users without breaking the bank (CRO) [[video]](https://www.youtube.com/watch?v=P7F6DjRIJkc&ab_channel=BugTV)
 
 ### 2022
 > * `2022-11-29`: [Advanced Technology Days](https://www.advtechdays.com/) Scaling infrastructure for millions of users without breaking the bank
