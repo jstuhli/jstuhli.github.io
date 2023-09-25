@@ -12,6 +12,7 @@ layout: home
 > * `2023-12-04`: [DevOpsCon Munich](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
 > * `2023-10-06`: [The Geek Gathering](https://www.thegeekgathering.org/speakers) Inspecting IPTV for fun and no profit
 > * `2023-09-27`: [Open Gates](https://og-cs.hr/open-gates-2-0/) Scaling: from 0 to 20 million users
+> * `2023-09-18`: [Shift](https://shift.infobip.com/schedule/) Moneyball Generation: Sports & Tech
 > * `2023-07-28`: [WeAreDevelopers Berlin](https://www.wearedevelopers.com/world-congress/program) Scaling: from 0 to 20 million users
 > * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
 > * `2023-05-10`: [Devoxx UK 2023](https://www.devoxx.co.uk/) Scaling: from 0 to 20 million users [[video]](https://www.youtube.com/watch?v=d22iKaVHfdg&ab_channel=DevoxxUK)
