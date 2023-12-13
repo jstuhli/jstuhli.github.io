@@ -9,6 +9,7 @@ layout: home
 ## Talks
 
 ### 2023
+> * `2023-12-12`: [Above Clouds 2023](https://www.meetup.com/above-clouds-zagreb/events/297457080/) Infra session
 > * `2023-12-04`: [DevOpsCon Munich](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
 > * `2023-10-06`: [The Geek Gathering](https://www.thegeekgathering.org/speakers) Inspecting IPTV for fun and no profit
 > * `2023-09-27`: [Open Gates](https://og-cs.hr/open-gates-2-0/) Scaling: from 0 to 20 million users
