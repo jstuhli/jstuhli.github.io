@@ -8,6 +8,10 @@ layout: home
 <!-- List of my talks -->
 ## Talks
 
+### 2024
+> * `2024-05-24`: [CyberWiseConf](https://cyberwisecon.eu/) Inspecting IPTV for fun and no profit
+> * `2024-05-16`: [BSidesVarazdin](https://bsidesvarazdin.org/schedule.html) Inspecting IPTV for fun and no profit
+
 ### 2023
 > * `2023-12-12`: [Above Clouds 2023](https://www.meetup.com/above-clouds-zagreb/events/297457080/) Infra session
 > * `2023-12-04`: [DevOpsCon Munich](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
