@@ -16,7 +16,7 @@ layout: home
 > * `2024-10-02`: [HowToWeb](https://www.howtoweb.co/speaker/josip-stuhli/) Scaling: from 0 to 20 million users
 > * `2024-09-24`: [Nerdearla](https://nerdear.la/en/) Scaling: from 0 to 20 million users
 > * `2024-09-19`: [Midwest PHP 2024](https://midwestphp.org/) Scaling: from 0 to 20 million users
-> * `2024-09-15`: [Shift](https://shift.infobip.com/) ShiftMag: Panel discussion
+> * `2024-09-17`: [Shift](https://shift.infobip.com/) Tech Leadership Unplugged: Inside Sofascore’s Global Success
 > * `2024-09-06`: [PHPSerbia](https://2024.phpsrbija.rs/talk-single/14) Scaling: from 0 to 20 million users
 > * `2024-09-03`: [Shift](https://lu.ma/shift2024zg) Panel Discussion: "Scaling Innovation: Lessons from Tech Leaders
 > * `2024-05-24`: [CyberWiseConf](https://cyberwisecon.eu/) Inspecting IPTV for fun and no profit
