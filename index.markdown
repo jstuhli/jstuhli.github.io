@@ -9,6 +9,16 @@ layout: home
 ## Talks
 
 ### 2024
+> * `2024-11-14`: [DevOps Barcelona](https://devops.barcelona/) Scaling: from 0 to 25 million users
+> * `2024-11-12`: [CloudX](https://www.developerweek.com/cloudx/) Scaling: from 0 to 20 million users
+> * `2024-11-01`: [Moldova DevCon](https://mdc.md/) Scaling: from 0 to 20 million users
+> * `2024-10-08`: [JumpIT](https://www.jumpitforum.com/) CTIO Talk panel: Umjetna inteligencija, kibernetička sigurnost, tehnološki trendovi
+> * `2024-10-02`: [HowToWeb](https://www.howtoweb.co/speaker/josip-stuhli/) Scaling: from 0 to 20 million users
+> * `2024-09-24`: [Nerdearla](https://nerdear.la/en/) Scaling: from 0 to 20 million users
+> * `2024-09-19`: [Midwest PHP 2024](https://midwestphp.org/) Scaling: from 0 to 20 million users
+> * `2024-09-15`: [Shift](https://shift.infobip.com/) ShiftMag: Panel discussion
+> * `2024-09-06`: [PHPSerbia](https://2024.phpsrbija.rs/talk-single/14) Scaling: from 0 to 20 million users
+> * `2024-09-03`: [Shift](https://lu.ma/shift2024zg) Panel Discussion: "Scaling Innovation: Lessons from Tech Leaders
 > * `2024-05-24`: [CyberWiseConf](https://cyberwisecon.eu/) Inspecting IPTV for fun and no profit
 > * `2024-05-16`: [BSidesVarazdin](https://bsidesvarazdin.org/schedule.html) Inspecting IPTV for fun and no profit
 
