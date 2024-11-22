@@ -9,13 +9,15 @@ layout: home
 ## Talks
 
 ### 2024
+> * `2024-11-28`: [Advanced Technology Days](https://www.advtechdays.com/) How We Built the World’s Largest Stadium — and Put It in Everyone’s Pocket
+> * `2024-11-21`: [OSMC](https://osmc.de/) Scaling: from 0 to 25 million users
 > * `2024-11-14`: [DevOps Barcelona](https://devops.barcelona/) Scaling: from 0 to 25 million users
 > * `2024-11-12`: [CloudX](https://www.developerweek.com/cloudx/) Scaling: from 0 to 20 million users
 > * `2024-11-01`: [Moldova DevCon](https://mdc.md/) Scaling: from 0 to 20 million users
+> * `2024-10-10`: [All Day DevOps](https://www.alldaydevops.com/) Scaling: from 0 to 20 million users
 > * `2024-10-08`: [JumpIT](https://www.jumpitforum.com/) CTIO Talk panel: Umjetna inteligencija, kibernetička sigurnost, tehnološki trendovi
 > * `2024-10-02`: [HowToWeb](https://www.howtoweb.co/speaker/josip-stuhli/) Scaling: from 0 to 20 million users
 > * `2024-09-24`: [Nerdearla](https://nerdear.la/en/) Scaling: from 0 to 20 million users
-> * `2024-09-19`: [Midwest PHP 2024](https://midwestphp.org/) Scaling: from 0 to 20 million users
 > * `2024-09-17`: [Shift](https://shift.infobip.com/) Tech Leadership Unplugged: Inside Sofascore’s Global Success
 > * `2024-09-06`: [PHPSerbia](https://2024.phpsrbija.rs/talk-single/14) Scaling: from 0 to 20 million users
 > * `2024-09-03`: [Shift](https://lu.ma/shift2024zg) Panel Discussion: "Scaling Innovation: Lessons from Tech Leaders
