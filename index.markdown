@@ -9,6 +9,9 @@ layout: home
 ## Talks
 
 ### 2024
+> * `2025-01-23`: [Conf42 DevOps 2025](https://www.conf42.com/DevOps_2025_Josip_Stuhli_scaling_users_performance#1938) Scaling: from 0 to 25 million users [[video]](https://www.youtube.com/watch?v=XrpCdRDMAWQ)
+
+### 2024
 > * `2024-11-28`: [Advanced Technology Days](https://www.advtechdays.com/) How We Built the World’s Largest Stadium — and Put It in Everyone’s Pocket
 > * `2024-11-21`: [OSMC](https://osmc.de/) Scaling: from 0 to 25 million users
 > * `2024-11-14`: [DevOps Barcelona](https://devops.barcelona/) Scaling: from 0 to 25 million users
