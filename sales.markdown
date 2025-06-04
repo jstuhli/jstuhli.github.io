@@ -28,7 +28,7 @@ If you’re offering to help us with DevOps, I assure you — **you’re pitchin
 We’re the ones helping others, not the ones needing help.
 
 > 🔍 **Looking for a job?**  
-> Awesome. Head over to the [Sofascore Careers page](https://www.sofascore.com/about#careers) and apply like a normal human.  
+> Awesome. Head over to the [Sofascore Careers page](https://corporate.sofascore.com/careers) and apply like a normal human.  
 > Sending cold pitches to my inbox isn’t how we hire people.
 
 
