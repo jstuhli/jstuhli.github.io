@@ -9,6 +9,8 @@ layout: home
 ## Talks
 
 ### 2025
+> * `2025-11-20`: [CloudDay 2025](https://www.cloudday.it/) Scaling: From 0 to 30 million users
+> * `2025-10-11`: [INIT 2025](https://initconf.org/init-conf-2025/) Scaling: From 0 to 30 million users
 > * `2025-03-21`: [TGG Cloud Meetup](https://lu.ma/kmefqsif) The New Shiny Syndrome: How to Avoid Tech Hype Traps
 > * `2025-01-23`: [Conf42 DevOps 2025](https://www.conf42.com/DevOps_2025_Josip_Stuhli_scaling_users_performance#1938) Scaling: from 0 to 25 million users [[video]](https://www.youtube.com/watch?v=XrpCdRDMAWQ)
 
