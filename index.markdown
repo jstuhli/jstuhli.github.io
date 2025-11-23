@@ -9,6 +9,8 @@ layout: home
 ## Talks
 
 ### 2025
+> * `2024-11-26`: [Advanced Technology Days](https://www.advtechdays.com/) The New Shiny Syndrome: How to Avoid Tech Hype Traps
+> * `2024-11-26`: [Advanced Technology Days](https://www.advtechdays.com/) Inspecting IPTV for fun and no profit
 > * `2025-11-20`: [CloudDay 2025](https://www.cloudday.it/) Scaling: From 0 to 30 million users
 > * `2025-10-11`: [INIT 2025](https://initconf.org/init-conf-2025/) Scaling: From 0 to 30 million users
 > * `2025-03-21`: [TGG Cloud Meetup](https://lu.ma/kmefqsif) The New Shiny Syndrome: How to Avoid Tech Hype Traps
