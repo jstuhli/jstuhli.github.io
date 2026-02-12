@@ -1,0 +1,262 @@
+- date: "2025-11-26"
+  conference: "Advanced Technology Days"
+  url: "https://www.advtechdays.com/"
+  title: "The New Shiny Syndrome: How to Avoid Tech Hype Traps"
+
+- date: "2025-11-26"
+  conference: "Advanced Technology Days"
+  url: "https://www.advtechdays.com/"
+  title: "Inspecting IPTV for fun and no profit"
+
+- date: "2025-11-20"
+  conference: "CloudDay 2025"
+  url: "https://www.cloudday.it/"
+  title: "Scaling: From 0 to 30 million users"
+
+- date: "2025-10-11"
+  conference: "INIT 2025"
+  url: "https://initconf.org/init-conf-2025/"
+  title: "Scaling: From 0 to 30 million users"
+
+- date: "2025-03-21"
+  conference: "TGG Cloud Meetup"
+  url: "https://lu.ma/kmefqsif"
+  title: "The New Shiny Syndrome: How to Avoid Tech Hype Traps"
+
+- date: "2025-01-23"
+  conference: "Conf42 DevOps 2025"
+  url: "https://www.conf42.com/DevOps_2025_Josip_Stuhli_scaling_users_performance#1938"
+  title: "Scaling: from 0 to 25 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=XrpCdRDMAWQ"
+
+- date: "2024-11-28"
+  conference: "Advanced Technology Days"
+  url: "https://www.advtechdays.com/"
+  title: "How We Built the World's Largest Stadium — and Put It in Everyone's Pocket"
+
+- date: "2024-11-21"
+  conference: "OSMC"
+  url: "https://osmc.de/"
+  title: "Scaling: from 0 to 25 million users"
+
+- date: "2024-11-14"
+  conference: "DevOps Barcelona"
+  url: "https://devops.barcelona/"
+  title: "Scaling: from 0 to 25 million users"
+
+- date: "2024-11-12"
+  conference: "CloudX"
+  url: "https://www.developerweek.com/cloudx/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-11-01"
+  conference: "Moldova DevCon"
+  url: "https://mdc.md/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-10-10"
+  conference: "All Day DevOps"
+  url: "https://www.alldaydevops.com/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-10-08"
+  conference: "JumpIT"
+  url: "https://www.jumpitforum.com/"
+  title: "CTIO Talk panel: Umjetna inteligencija, kiberneticka sigurnost, tehnoloski trendovi"
+
+- date: "2024-10-02"
+  conference: "HowToWeb"
+  url: "https://www.howtoweb.co/speaker/josip-stuhli/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-09-24"
+  conference: "Nerdearla"
+  url: "https://nerdear.la/en/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-09-17"
+  conference: "Shift"
+  url: "https://shift.infobip.com/"
+  title: "Tech Leadership Unplugged: Inside Sofascore's Global Success"
+
+- date: "2024-09-06"
+  conference: "PHPSerbia"
+  url: "https://2024.phpsrbija.rs/talk-single/14"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2024-09-03"
+  conference: "Shift"
+  url: "https://lu.ma/shift2024zg"
+  title: "Panel Discussion: Scaling Innovation: Lessons from Tech Leaders"
+
+- date: "2024-05-24"
+  conference: "CyberWiseConf"
+  url: "https://cyberwisecon.eu/"
+  title: "Inspecting IPTV for fun and no profit"
+
+- date: "2024-05-16"
+  conference: "BSidesVarazdin"
+  url: "https://bsidesvarazdin.org/schedule.html"
+  title: "Inspecting IPTV for fun and no profit"
+
+- date: "2023-12-12"
+  conference: "Above Clouds 2023"
+  url: "https://www.meetup.com/above-clouds-zagreb/events/297457080/"
+  title: "Infra session"
+
+- date: "2023-12-04"
+  conference: "DevOpsCon Munich"
+  url: "https://devopscon.io/business-company-culture/cloud-scaling-on-premise/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2023-11-30"
+  conference: "Software Engineering Daily"
+  url: "https://www.youtube.com/watch?v=3aiDs1o6m20&ab_channel=SoftwareEngineeringDaily"
+  title: "Podcast appearance"
+
+- date: "2023-10-06"
+  conference: "The Geek Gathering"
+  url: "https://www.thegeekgathering.org/speakers"
+  title: "Inspecting IPTV for fun and no profit"
+
+- date: "2023-09-27"
+  conference: "Open Gates"
+  url: "https://og-cs.hr/open-gates-2-0/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2023-09-18"
+  conference: "Shift"
+  url: "https://shift.infobip.com/schedule/"
+  title: "Moneyball Generation: Sports & Tech"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=7pk6U-CkN60&ab_channel=ShiftConference"
+
+- date: "2023-07-28"
+  conference: "WeAreDevelopers Berlin"
+  url: "https://www.wearedevelopers.com/world-congress/program"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2023-06-14"
+  conference: "DevOpsCon Berlin"
+  url: "https://devopscon.io/business-company-culture/cloud-scaling-on-premise/"
+  title: "Scaling: from 0 to 20 million users"
+
+- date: "2023-05-10"
+  conference: "Devoxx UK 2023"
+  url: "https://www.devoxx.co.uk/"
+  title: "Scaling: from 0 to 20 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=d22iKaVHfdg&ab_channel=DevoxxUK"
+
+- date: "2023-02-02"
+  conference: "Bug Future Show"
+  url: "https://www.bug.hr/dogadjaji/ovo-je-kompletan-program-najspektakularnijeg-bug-future-showa-svih-vremena-31389"
+  title: "Scaling infrastructure for millions of users without breaking the bank"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=P7F6DjRIJkc&ab_channel=BugTV"
+
+- date: "2022-11-29"
+  conference: "Advanced Technology Days"
+  url: "https://www.advtechdays.com/"
+  title: "Scaling infrastructure for millions of users without breaking the bank"
+
+- date: "2022-10-07"
+  conference: "The Geek Gathering"
+  url: "https://thegeekgathering.org/schedule"
+  title: "Scaling: from 0 to 20 million"
+
+- date: "2022-06-24"
+  conference: "Dutch PHP Conference"
+  url: "https://www.phpconference.nl/talk/scaling-from-0-o-20-million-users"
+  title: "Scaling: from 0 to 20 million"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=82R0GvERY20"
+
+- date: "2022-06-09"
+  conference: "PHP Meetup"
+  url: "https://www.meetup.com/zgphp-meetup/events/285508799/"
+  title: "Advanced caching"
+
+- date: "2022-05-20"
+  conference: "DORS/CLUC"
+  url: "https://2022.dorscluc.org/2022/05/10/talk-announcement-josip-stuhli-scaling-from-0-to-20-million-users/"
+  title: "Scaling: from 0 to 20 million"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=IA_9KgkXkD8"
+
+- date: "2022-05-15"
+  conference: "JavaCRO"
+  url: "https://2022spring.javacro.hr/eng/Program/Scaling-0-to-20-million-users"
+  title: "Keynote: Scaling from 0 to 20 million"
+
+- date: "2021-09-02"
+  conference: "Web Summer Camp"
+  url: "https://2021.websummercamp.com/php"
+  title: "Advanced caching practices workshop"
+
+- date: "2021-06-10"
+  conference: "Debug"
+  url: "https://www.debug.hr/2021/"
+  title: "Scaling: from 0 to 20 million"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=vMBrxYU_keI&list=TLGGP6TwW1LVBnowNjA5MjAyMQ&t=1s&ab_channel=BugTV"
+
+- date: "2021-05-14"
+  conference: "FER (Faculty of Electrical Engineering)"
+  url: "https://www.fer.unizg.hr/en"
+  title: "Scaling: from 0 to 20 million"
+
+- date: "2021-05-02"
+  conference: "Tech Radar #101"
+  url: "https://www.youtube.com/watch?v=YHjosNEPK5s&list=PLFzhEM4ssFwASDLgotmhE15-GbT_BRjDb"
+  title: "Kako je SofaScore prikupio 20 milijuna korisnika i prosirio se na kinesko trziste?"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=X-PGr_I9XyM&t=2s&ab_channel=BugTV"
+
+- date: "2021-04-22"
+  conference: "Oracle Adaptive Enterprise IT"
+  url: "https://go.oracle.com/LP=109478?elqCampaignId=261853"
+  title: "Reducing latency for end users"
+
+- date: "2019-11-28"
+  conference: "PHP Meetup"
+  url: "https://www.meetup.com/ZgPHP-meetup/events/266578670/"
+  title: "Scaling: from 0 to 20 million"
+  links:
+    - label: "joind.in"
+      url: "https://joind.in/event/zgphp-meetup-99/scaling-from-0-to-20-million"
+
+- date: "2019-10-11"
+  conference: "WebCamp"
+  url: "https://2019.webcampzg.org/talks/inspecting-iptv-for-fun-and-no-profit/"
+  title: "Inspecting IPTV for fun and no profit"
+  links:
+    - label: "joind.in"
+      url: "https://joind.in/event/webcamp-zagreb-2019/inspecting-iptv-for-fun-and-no-profit"
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=VRoHPeX8o_Y"
+
+- date: "2017-06-07"
+  conference: "PHP Meetup"
+  url: "https://www.meetup.com/ZgPHP-meetup/events/233948871/"
+  title: "Panel: Surviving The Development Cycle - Stories, Tips and Tricks"
+  links:
+    - label: "joind.in"
+      url: "https://joind.in/event/zgphp-meetup-201706/panel-surviving-the-development-cycle---stories-tips-and-tricks"
+
+- date: "2014-06-19"
+  conference: "PHP Meetup"
+  url: "https://mi2.hr/en/2014/06/zgphp-meetup-33/"
+  title: "Building distributed PHP applications"
+  links:
+    - label: "video"
+      url: "https://zgphp.org/videos/josip-stuhli-building-distributed-applications/"

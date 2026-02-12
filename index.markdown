@@ -3,8 +3,8 @@ layout: home
 ---
 
 <div class="hero">
-  <div class="hero-eyebrow">CTO @ Sofascore</div>
   <h1>Josip Stuhli</h1>
+  <div class="hero-eyebrow">CTO @ Sofascore</div>
   <p class="hero-subtitle">Building the technology, team and infrastructure behind real-time sports platform for 35+ million users. Engineering leader, conference speaker, and distributed systems enthusiast.</p>
   <div class="social-links">
     <a href="https://github.com/jstuhli" class="social-link" target="_blank" rel="noopener" aria-label="GitHub">
@@ -23,7 +23,7 @@ layout: home
   <div class="stats">
     <div class="stat">
       <div class="stat-value">15+</div>
-      <div class="stat-label">Years at Sofascore</div>
+      <div class="stat-label">Years of experience</div>
     </div>
     <div class="stat">
       <div class="stat-value">35M+</div>
@@ -44,33 +44,10 @@ layout: home
 
 I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a leading sports platform that provides real-time data and insights. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.
 
-I joined Sofascore in 2010 as a software engineer, progressed to system architect, and ultimately became CTO. That journey gave me a deep understanding of the company's evolution, and I'm proud to have contributed to its success at every stage.
+Since I joined in 2010 I have witnessed and contributed to the company's growth and success at every stage.
 
 My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science. With extensive experience in web technologies and distributed systems, I thrive on tackling complex challenges that demand creative and innovative solutions.
 
-</div>
-
-<div class="section">
-  <div class="section-header">
-    <h2>Journey</h2>
-    <div class="section-line"></div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-role">Chief Technology Officer</div>
-    <div class="timeline-period">Sofascore &middot; Present</div>
-    <div class="timeline-desc">Leading architecture, development, and scaling of web and mobile platforms serving 30M+ users. Driving technical strategy and building high-performance engineering teams.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-role">System Architect</div>
-    <div class="timeline-period">Sofascore</div>
-    <div class="timeline-desc">Designed scalable distributed systems and infrastructure to support rapid growth from early-stage to millions of concurrent users.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-role">Software Engineer</div>
-    <div class="timeline-period">Sofascore &middot; Since 2010</div>
-    <div class="timeline-desc">Built core platform features and established engineering foundations for the product's growth.</div>
-  </div>
 </div>
 
 <div class="section">
@@ -93,45 +70,3 @@ My passion for technology started with an early curiosity for programming langua
   </div>
 </div>
 
-<div class="section">
-  <div class="section-header">
-    <h2>Speaking</h2>
-    <div class="section-line"></div>
-  </div>
-
-A regular speaker at international conferences and meetups, sharing insights on scaling infrastructure, distributed systems, and engineering leadership. Recent highlights include:
-
-  <div class="talk-item">
-    <div class="talk-date">2025</div>
-    <div class="talk-info">
-      <h4>Scaling: From 0 to 30 Million Users</h4>
-      <span class="talk-conference">CloudDay Italy, INIT Conference, Conf42 DevOps</span>
-    </div>
-  </div>
-  <div class="talk-item">
-    <div class="talk-date">2024</div>
-    <div class="talk-info">
-      <h4>How We Built the World's Largest Stadium</h4>
-      <span class="talk-conference">Advanced Technology Days</span>
-    </div>
-  </div>
-  <div class="talk-item">
-    <div class="talk-date">2024</div>
-    <div class="talk-info">
-      <h4>Inspecting IPTV for Fun and No Profit</h4>
-      <span class="talk-conference">CyberWiseConf, BSidesVarazdin</span>
-    </div>
-  </div>
-  <div class="talk-item">
-    <div class="talk-date">2023</div>
-    <div class="talk-info">
-      <h4>Scaling: From 0 to 20 Million Users</h4>
-      <span class="talk-conference">Devoxx UK, WeAreDevelopers Berlin, DevOpsCon</span>
-    </div>
-  </div>
-
-  <a href="{{ '/talks/' | relative_url }}" class="view-all">
-    View all talks
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6"/></svg>
-  </a>
-</div>
