@@ -1,0 +1,12 @@
+<header class="site-header">
+  <nav class="nav-container">
+    <a href="/" class="nav-logo">
+      <span class="logo-bracket">{</span> josip stuhli <span class="logo-bracket">}</span>
+    </a>
+    <div class="nav-links">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link{{ if eq $.RelPermalink .URL }} active{{ end }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+  </nav>
+</header>

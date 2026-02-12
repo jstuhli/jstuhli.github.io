@@ -1,0 +1,22 @@
+baseURL = "https://stuhli.dev"
+languageCode = "en-us"
+title = "Josip Stuhli"
+
+[params]
+  description = "CTO @ Sofascore — Building real-time sports platforms at scale"
+  author = "Josip Stuhli"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Talks"
+    url = "/talks/"
+    weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
