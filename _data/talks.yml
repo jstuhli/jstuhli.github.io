@@ -1,3 +1,8 @@
+- date: "2026-1-26"
+  conference: "RubyZG Meetup"
+  url: "https://www.meetup.com/rubyzg/events/312915212/"
+  title: "Panel: Data Imports Across Industries"
+
 - date: "2025-11-26"
   conference: "Advanced Technology Days"
   url: "https://www.advtechdays.com/"
@@ -12,6 +17,11 @@
   conference: "CloudDay 2025"
   url: "https://www.cloudday.it/"
   title: "Scaling: From 0 to 30 million users"
+
+- date: "2025-10-15"
+  conference: "Engineering Management Meetup"
+  url: "https://www.meetup.com/engineering-management/events/311358250/"
+  title: "Panel: Kako zaposliti i razvijati engineering menadžere?"
 
 - date: "2025-10-11"
   conference: "INIT 2025"
