@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stop Trying to Sell Me Stuff
+title: Sales FAQ
 permalink: /sales/
 ---
 Hi there 👋
