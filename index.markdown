@@ -26,8 +26,8 @@ layout: home
       <div class="stat-label">Years of experience</div>
     </div>
     <div class="stat">
-      <div class="stat-value">35M+</div>
-      <div class="stat-label">Users Scaled To</div>
+      <div class="stat-value">50M+</div>
+      <div class="stat-label">Monthly Users Scaled To</div>
     </div>
     <div class="stat">
       <div class="stat-value">50+</div>
