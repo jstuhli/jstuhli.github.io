@@ -1,17 +1,22 @@
 title: Josip Stuhli
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal page for Josip Stuhli
-baseurl: "" # the subpath of your site, e.g. /blog
+description: >-
+  CTO at Sofascore. Engineering leader, conference speaker, and distributed systems enthusiast.
+baseurl: ""
 url: "https://stuhli.dev"
 
 # Build settings
-remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
-minima:
-  skin: auto
-  social_links:
-    - { platform: github,  user_url: "https://github.com/jstuhli" }
-    - { platform: twitter, user_url: "https://twitter.com/jstuhli" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jstuhli/" }
+# Social links used in footer
+social_links:
+  - { name: "GitHub", url: "https://github.com/jstuhli" }
+  - { name: "LinkedIn", url: "https://www.linkedin.com/in/jstuhli/" }
+  - { name: "X / Twitter", url: "https://twitter.com/jstuhli" }
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

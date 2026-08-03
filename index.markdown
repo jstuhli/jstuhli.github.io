@@ -1,75 +1,72 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
-<!-- List of my talks -->
-## Talks
+<div class="hero">
+  <h1>Josip Stuhli</h1>
+  <div class="hero-eyebrow">CTO @ Sofascore</div>
+  <p class="hero-subtitle">Building the technology, team and infrastructure behind real-time sports platform for 35+ million users. Engineering leader, conference speaker, and distributed systems enthusiast.</p>
+  <div class="social-links">
+    <a href="https://github.com/jstuhli" class="social-link" target="_blank" rel="noopener" aria-label="GitHub">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+    </a>
+    <a href="https://www.linkedin.com/in/jstuhli/" class="social-link" target="_blank" rel="noopener" aria-label="LinkedIn">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+    </a>
+    <a href="https://twitter.com/jstuhli" class="social-link" target="_blank" rel="noopener" aria-label="Twitter / X">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+    </a>
+  </div>
+</div>
 
-### 2025
-> * `2024-11-26`: [Advanced Technology Days](https://www.advtechdays.com/) The New Shiny Syndrome: How to Avoid Tech Hype Traps
-> * `2024-11-26`: [Advanced Technology Days](https://www.advtechdays.com/) Inspecting IPTV for fun and no profit
-> * `2025-11-20`: [CloudDay 2025](https://www.cloudday.it/) Scaling: From 0 to 30 million users
-> * `2025-10-11`: [INIT 2025](https://initconf.org/init-conf-2025/) Scaling: From 0 to 30 million users
-> * `2025-03-21`: [TGG Cloud Meetup](https://lu.ma/kmefqsif) The New Shiny Syndrome: How to Avoid Tech Hype Traps
-> * `2025-01-23`: [Conf42 DevOps 2025](https://www.conf42.com/DevOps_2025_Josip_Stuhli_scaling_users_performance#1938) Scaling: from 0 to 25 million users [[video]](https://www.youtube.com/watch?v=XrpCdRDMAWQ)
+<div class="section">
+  <div class="stats">
+    <div class="stat">
+      <div class="stat-value">15+</div>
+      <div class="stat-label">Years of experience</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">50M+</div>
+      <div class="stat-label">Monthly Users Scaled To</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">50+</div>
+      <div class="stat-label">Conference Talks</div>
+    </div>
+  </div>
+</div>
 
-### 2024
-> * `2024-11-28`: [Advanced Technology Days](https://www.advtechdays.com/) How We Built the World’s Largest Stadium — and Put It in Everyone’s Pocket
-> * `2024-11-21`: [OSMC](https://osmc.de/) Scaling: from 0 to 25 million users
-> * `2024-11-14`: [DevOps Barcelona](https://devops.barcelona/) Scaling: from 0 to 25 million users
-> * `2024-11-12`: [CloudX](https://www.developerweek.com/cloudx/) Scaling: from 0 to 20 million users
-> * `2024-11-01`: [Moldova DevCon](https://mdc.md/) Scaling: from 0 to 20 million users
-> * `2024-10-10`: [All Day DevOps](https://www.alldaydevops.com/) Scaling: from 0 to 20 million users
-> * `2024-10-08`: [JumpIT](https://www.jumpitforum.com/) CTIO Talk panel: Umjetna inteligencija, kibernetička sigurnost, tehnološki trendovi
-> * `2024-10-02`: [HowToWeb](https://www.howtoweb.co/speaker/josip-stuhli/) Scaling: from 0 to 20 million users
-> * `2024-09-24`: [Nerdearla](https://nerdear.la/en/) Scaling: from 0 to 20 million users
-> * `2024-09-17`: [Shift](https://shift.infobip.com/) Tech Leadership Unplugged: Inside Sofascore’s Global Success
-> * `2024-09-06`: [PHPSerbia](https://2024.phpsrbija.rs/talk-single/14) Scaling: from 0 to 20 million users
-> * `2024-09-03`: [Shift](https://lu.ma/shift2024zg) Panel Discussion: "Scaling Innovation: Lessons from Tech Leaders
-> * `2024-05-24`: [CyberWiseConf](https://cyberwisecon.eu/) Inspecting IPTV for fun and no profit
-> * `2024-05-16`: [BSidesVarazdin](https://bsidesvarazdin.org/schedule.html) Inspecting IPTV for fun and no profit
+<div class="section">
+  <div class="section-header">
+    <h2>About</h2>
+    <div class="section-line"></div>
+  </div>
 
-### 2023
-> * `2023-12-12`: [Above Clouds 2023](https://www.meetup.com/above-clouds-zagreb/events/297457080/) Infra session
-> * `2023-12-04`: [DevOpsCon Munich](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
-> * `2023-11-30`: [Software Engineering Daily podcast](https://www.youtube.com/watch?v=3aiDs1o6m20&ab_channel=SoftwareEngineeringDaily)
-> * `2023-10-06`: [The Geek Gathering](https://www.thegeekgathering.org/speakers) Inspecting IPTV for fun and no profit
-> * `2023-09-27`: [Open Gates](https://og-cs.hr/open-gates-2-0/) Scaling: from 0 to 20 million users
-> * `2023-09-18`: [Shift](https://shift.infobip.com/schedule/) Moneyball Generation: Sports & Tech [[video]](https://www.youtube.com/watch?v=7pk6U-CkN60&ab_channel=ShiftConference)
-> * `2023-07-28`: [WeAreDevelopers Berlin](https://www.wearedevelopers.com/world-congress/program) Scaling: from 0 to 20 million users
-> * `2023-06-14`: [DevOpsCon Berlin](https://devopscon.io/business-company-culture/cloud-scaling-on-premise/) Scaling: from 0 to 20 million users
-> * `2023-05-10`: [Devoxx UK 2023](https://www.devoxx.co.uk/) Scaling: from 0 to 20 million users [[video]](https://www.youtube.com/watch?v=d22iKaVHfdg&ab_channel=DevoxxUK)
-> * `2023-02-02`: [Bug Future Show Keynote](https://www.bug.hr/dogadjaji/ovo-je-kompletan-program-najspektakularnijeg-bug-future-showa-svih-vremena-31389)  Scaling infrastructure for millions of users without breaking the bank (CRO) [[video]](https://www.youtube.com/watch?v=P7F6DjRIJkc&ab_channel=BugTV)
+I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a leading sports platform that provides real-time data and insights. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.
 
-### 2022
-> * `2022-11-29`: [Advanced Technology Days](https://www.advtechdays.com/) Scaling infrastructure for millions of users without breaking the bank
-> * `2022-10-07`: [The Geek Gathering](https://thegeekgathering.org/schedule) Scaling: from 0 to 20 milion
-> * `2022-06-24`: [Dutch PHP Conference](https://www.phpconference.nl/talk/scaling-from-0-o-20-million-users) Scaling: from 0 to 20 milion [[video]](https://www.youtube.com/watch?v=82R0GvERY20) 
-> * `2022-06-09`: [PHP Meetup](https://www.meetup.com/zgphp-meetup/events/285508799/) Advanced caching
-> * `2022-05-20`: [DORS/CLUC](https://2022.dorscluc.org/2022/05/10/talk-announcement-josip-stuhli-scaling-from-0-to-20-million-users/) Scaling: from 0 to 20 milion [[video]](https://www.youtube.com/watch?v=IA_9KgkXkD8)
-> * `2022-05-15`: [JavaCRO Keynote speech](https://2022spring.javacro.hr/eng/Program/Scaling-0-to-20-million-users) Scaling: from 0 to 20 milion
+Since I joined in 2010 I have witnessed and contributed to the company's growth and success at every stage.
 
-### 2021
-> * `2021-09-02`: [Web Summer Camp](https://2021.websummercamp.com/php) Advanced caching practices workshop
-> * `2021-05-14`: [FER (Faculty of Electrical Engineering)](https://www.fer.unizg.hr/en) Scaling: from 0 to 20 milion (CRO)
-> * `2021-06-10`: [Debug](https://www.debug.hr/2021/) Scaling: from 0 to 20 milion [[video]](https://www.youtube.com/watch?v=vMBrxYU_keI&list=TLGGP6TwW1LVBnowNjA5MjAyMQ&t=1s&ab_channel=BugTV) (CRO)
-> * `2021-05-02`: [Tech Radar #101](https://www.youtube.com/watch?v=YHjosNEPK5s&list=PLFzhEM4ssFwASDLgotmhE15-GbT_BRjDb) Kako je SofaScore prikupio 20 milijuna korisnika i proširio se na kinesko tržište? (CRO) [[video]](https://www.youtube.com/watch?v=X-PGr_I9XyM&t=2s&ab_channel=BugTV)
-> * `2021-04-22`: [Oracle Adaptive Enterprise IT](https://go.oracle.com/LP=109478?elqCampaignId=261853) Reducing latency for end users
+My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science. With extensive experience in web technologies and distributed systems, I thrive on tackling complex challenges that demand creative and innovative solutions.
 
+</div>
 
-### 2019
-> * `2019-11-28`: [PHP Meetup](https://www.meetup.com/ZgPHP-meetup/events/266578670/) Scaling: from 0 to 20 milion [[joind.in]](https://joind.in/event/zgphp-meetup-99/scaling-from-0-to-20-million)
-> * `2019-10-11`: [WebCamp](https://2019.webcampzg.org/talks/inspecting-iptv-for-fun-and-no-profit/) Inspecting IPTV for fun and no profit [[joind.in]](https://joind.in/event/webcamp-zagreb-2019/inspecting-iptv-for-fun-and-no-profit) [[video]](https://www.youtube.com/watch?v=VRoHPeX8o_Y)
+<div class="section">
+  <div class="section-header">
+    <h2>Expertise</h2>
+    <div class="section-line"></div>
+  </div>
 
-
-### 2017
-> * `2017-06-07`: [PHP Meetup](https://www.meetup.com/ZgPHP-meetup/events/233948871/) Panel: "Surviving The Development Cycle - Stories, Tips and Tricks [[joind.in]](https://joind.in/event/zgphp-meetup-201706/panel-surviving-the-development-cycle---stories-tips-and-tricks)
-
-
-### 2014
-> * `2019-06-19`: [PHP Meetup](https://mi2.hr/en/2014/06/zgphp-meetup-33/) Building distributed PHP applications [[video]](https://zgphp.org/videos/josip-stuhli-building-distributed-applications/)
-
+  <div class="tags">
+    <span class="tag">Scalability</span>
+    <span class="tag">Performance</span>
+    <span class="tag">Speed</span>
+    <span class="tag">Team Leadership</span>
+    <span class="tag">Growth &amp; Scaleup</span>
+    <span class="tag">Technology Strategy</span>
+    <span class="tag">Engineering Culture</span>
+    <span class="tag">Distributed Systems</span>
+    <span class="tag">System Architecture</span>
+    <span class="tag">High Availability</span>
+  </div>
+</div>
 

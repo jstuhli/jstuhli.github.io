@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="page-header">
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+  <p>{{ page.subtitle }}</p>
+  {% endif %}
+</div>
+
+<div class="talks-page">
+{% assign current_year = "" %}
+{% for talk in site.data.talks %}
+  {% assign year = talk.date | slice: 0, 4 %}
+  {% if year != current_year %}
+    {% if current_year != "" %}</ul>{% endif %}
+
+<h2>{{ year }}</h2>
+<ul>
+    {% assign current_year = year %}
+  {% endif %}
+  <li>
+    <code>{{ talk.date }}</code>
+    <a href="{{ talk.url }}">{{ talk.conference }}</a> &mdash; {{ talk.title }}
+    {%- if talk.links %} (
+      {%- for link in talk.links -%}
+        {%- if forloop.index > 1 %}, {% endif -%}
+        <a href="{{ link.url }}">{{ link.label }}</a>
+      {%- endfor -%}
+    ){% endif %}
+  </li>
+{% endfor %}
+{% if current_year != "" %}</ul>{% endif %}
+</div>
