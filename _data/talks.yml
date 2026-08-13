@@ -12,6 +12,9 @@
   conference: "We Are Developers 2026"
   url: "https://www.wearedevelopers.com/world-congress"
   title: "The New Shiny Syndrome: How to Avoid Tech Hype Traps"
+  links:
+    - label: "video"
+      url: "https://www.wearedevelopers.com/videos/100135-the-new-shiny-syndrome-how-to-avoid-tech-hype-traps"
 
 - date: "2026-06-05"
   conference: "Sunset Sports Festival"
@@ -37,11 +40,17 @@
   conference: "CloudDay 2025"
   url: "https://www.cloudday.it/"
   title: "Scaling: From 0 to 30 million users"
+  links:
+    - label: "video"
+      url: "https://www.improove.tech/videos/3768/Scaling-from-0-to-30-million-users"
 
 - date: "2025-10-15"
   conference: "Engineering Management Meetup"
   url: "https://www.meetup.com/engineering-management/events/311358250/"
   title: "Panel: Kako zaposliti i razvijati engineering menadžere?"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=0qOHhqofVBs&t=621s"
 
 - date: "2025-10-11"
   conference: "INIT 2025"
@@ -70,11 +79,17 @@
   conference: "OSMC"
   url: "https://osmc.de/"
   title: "Scaling: from 0 to 25 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=OWWP_jd5YZI"
 
 - date: "2024-11-14"
   conference: "DevOps Barcelona"
   url: "https://devops.barcelona/"
   title: "Scaling: from 0 to 25 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=AxAh2Xix1zA"
 
 - date: "2024-11-12"
   conference: "CloudX"
@@ -85,6 +100,9 @@
   conference: "Moldova DevCon"
   url: "https://mdc.md/"
   title: "Scaling: from 0 to 20 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=jw5t-Y4RER0"
 
 - date: "2024-10-10"
   conference: "All Day DevOps"
@@ -100,11 +118,17 @@
   conference: "HowToWeb"
   url: "https://www.howtoweb.co/speaker/josip-stuhli/"
   title: "Scaling: from 0 to 20 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=tbQR5k9lq88"
 
 - date: "2024-09-24"
   conference: "Nerdearla"
   url: "https://nerdear.la/en/"
   title: "Scaling: from 0 to 20 million users"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=jdahFHUDLKc"
 
 - date: "2024-09-17"
   conference: "Shift"
@@ -125,6 +149,9 @@
   conference: "CyberWiseConf"
   url: "https://cyberwisecon.eu/"
   title: "Inspecting IPTV for fun and no profit"
+  links:
+    - label: "video"
+      url: "https://www.youtube.com/watch?v=UXmCHfEPUMI"
 
 - date: "2024-05-16"
   conference: "BSidesVarazdin"
@@ -168,6 +195,9 @@
   conference: "WeAreDevelopers Berlin"
   url: "https://www.wearedevelopers.com/world-congress/program"
   title: "Scaling: from 0 to 20 million users"
+  links:
+    - label: "video"
+      url: "https://www.wearedevelopers.com/en/videos/676/scaling-from-0-to-20-million-users"
 
 - date: "2023-06-14"
   conference: "DevOpsCon Berlin"
