@@ -42,15 +42,15 @@ layout: home
     <div class="section-line"></div>
   </div>
 
-I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a real-time sports platform used by more than 50 million people every month. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.
+  <p>I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a real-time sports platform used by more than 50 million people every month. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.</p>
 
-My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science.
+  <p>My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science.</p>
 
-Since I joined in 2010 as the first engineer I have witnessed and contributed to the company's growth and success at every stage and seen it go from a handful of people to hundreds.
+  <p>Since I joined in 2010 as the first engineer I have witnessed and contributed to the company's growth and success at every stage and seen it go from a handful of people to hundreds.</p>
 
-Today my job is mostly people, strategy and decisions. I lead the engineering organization, hire and grow engineering managers, and make the calls on architecture, infrastructure and which new technology we adopt or skip.
+  <p>Today my job is mostly people, strategy and decisions. I lead the engineering organization, hire and grow engineering managers, and make the calls on architecture, infrastructure and which new technology we adopt or skip.</p>
 
-I still care deeply about the engineering. Distributed systems, caching, high availability and squeezing performance out of a small budget are the problems I enjoy immensely, and the ones I talk about at conferences. I'm equally interested in the business side: what a technical decision costs in operations, hiring and cognitive load, and what the company gets in return.
+  <p>I still care deeply about the engineering. Distributed systems, caching, high availability and squeezing performance out of a small budget are the problems I enjoy immensely, and the ones I talk about at conferences. I'm equally interested in the business side: what a technical decision costs in operations, hiring and cognitive load, and what the company gets in return.</p>
 
 </div>
 
