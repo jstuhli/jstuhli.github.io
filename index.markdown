@@ -5,7 +5,7 @@ layout: home
 <div class="hero">
   <h1>Josip Stuhli</h1>
   <div class="hero-eyebrow">CTO @ Sofascore</div>
-  <p class="hero-subtitle">Building the technology, team and infrastructure behind real-time sports platform for 35+ million users. Engineering leader, conference speaker, and distributed systems enthusiast.</p>
+  <p class="hero-subtitle">Building the technology, team and infrastructure behind real-time sports platform for 50+ million users. Engineering leader, conference speaker, and distributed systems enthusiast.</p>
   <div class="social-links">
     <a href="https://github.com/jstuhli" class="social-link" target="_blank" rel="noopener" aria-label="GitHub">
       <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
@@ -42,11 +42,15 @@ layout: home
     <div class="section-line"></div>
   </div>
 
-I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a leading sports platform that provides real-time data and insights. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.
+I'm the CTO of <a href="https://www.sofascore.com/">Sofascore</a>, a real-time sports platform used by more than 50 million people every month. I oversee the architecture, development, and scaling of our platforms and lead a team of talented engineers.
 
-Since I joined in 2010 I have witnessed and contributed to the company's growth and success at every stage.
+My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science.
 
-My passion for technology started with an early curiosity for programming languages, which led me to a formal background in computer science. With extensive experience in web technologies and distributed systems, I thrive on tackling complex challenges that demand creative and innovative solutions.
+Since I joined in 2010 as the first engineer I have witnessed and contributed to the company's growth and success at every stage and seen it go from a handful of people to hundreds.
+
+Today my job is mostly people, strategy and decisions. I lead the engineering organization, hire and grow engineering managers, and make the calls on architecture, infrastructure and which new technology we adopt or skip.
+
+I still care deeply about the engineering. Distributed systems, caching, high availability and squeezing performance out of a small budget are the problems I enjoy immensely, and the ones I talk about at conferences. I'm equally interested in the business side: what a technical decision costs in operations, hiring and cognitive load, and what the company gets in return.
 
 </div>
 
