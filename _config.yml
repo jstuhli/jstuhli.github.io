@@ -4,6 +4,12 @@ description: >-
 baseurl: ""
 url: "https://stuhli.dev"
 
+# Social sharing (used by jekyll-seo-tag for og:image / twitter:image)
+image: /assets/og-image.png
+twitter:
+  username: jstuhli
+  card: summary_large_image
+
 # Build settings
 plugins:
   - jekyll-feed
