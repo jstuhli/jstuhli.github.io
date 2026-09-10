@@ -5,10 +5,18 @@ baseurl: ""
 url: "https://stuhli.dev"
 
 # Social sharing (used by jekyll-seo-tag for og:image / twitter:image)
+# jekyll-seo-tag only reads `image` from page front matter, not from
+# site config, so the default image is injected via front matter defaults.
 image: /assets/og-image.png
 twitter:
   username: jstuhli
   card: summary_large_image
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
 
 # Build settings
 plugins:
